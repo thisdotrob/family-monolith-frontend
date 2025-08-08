@@ -1,0 +1,29 @@
+{
+  "name": "vk-b2e2-prompt-1-q",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"tests passed\"",
+    "prepare": "husky"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.14.0",
+  "devDependencies": {
+    "@commitlint/cli": "^19.8.1",
+    "@commitlint/config-conventional": "^19.8.1",
+    "@typescript-eslint/eslint-plugin": "^8.39.0",
+    "@typescript-eslint/parser": "^8.39.0",
+    "eslint": "^9.33.0",
+    "eslint-plugin-jest": "^29.0.1",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-native": "^5.0.0",
+    "eslint-plugin-tailwindcss": "^3.18.2",
+    "globals": "^16.3.0",
+    "husky": "^9.1.7",
+    "jest": "^30.0.5",
+    "prettier": "^3.6.2"
+  }
+}
